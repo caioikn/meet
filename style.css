@@ -23,7 +23,7 @@ header::before {
 }
 
 header::after {
-  background-image: url("../assets/desktop/image-hero-right.png");
+  background-image: url("./assets/desktop/image-hero-right.png");
   background-repeat: no-repeat;
   background-size: cover;
   content: "";
@@ -165,7 +165,7 @@ footer {
 }
 
 footer::before {
-  background-image: url("../assets/mobile/image-footer.jpg");
+  background-image: url("./assets/mobile/image-footer.jpg");
   background-size: cover;
   content: "";
   height: 100%;
@@ -252,7 +252,7 @@ footer::after {
     margin-bottom: 164px;
   }
   header::before {
-    background-image: url("../assets/tablet/image-hero.png");
+    background-image: url("./assets/tablet/image-hero.png");
     background-repeat: no-repeat;
     background-size: cover;
     content: "";
@@ -290,7 +290,7 @@ footer::after {
     width: 573px;
   }
   footer::before {
-    background-image: url("../assets/tablet/image-footer.jpg");
+    background-image: url("./assets/tablet/image-footer.jpg");
   }
   .footer__text h2 {
     font-size: 40px;
@@ -308,7 +308,7 @@ footer::after {
     padding-top: 80px;
   }
   header::before {
-    background-image: url("../assets/desktop/image-hero-left.png");
+    background-image: url("./assets/desktop/image-hero-left.png");
     background-repeat: no-repeat;
     background-size: cover;
     content: "";
@@ -341,7 +341,7 @@ footer::after {
     width: 540px;
   }
   footer::before {
-    background-image: url("../assets/desktop/image-footer.jpg");
+    background-image: url("./assets/desktop/image-footer.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
