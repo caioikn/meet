@@ -12,7 +12,7 @@ header {
 }
 
 header::before {
-    background-image: url('../assets/desktop/image-hero-left.png');
+    background-image: url('./assets/desktop/image-hero-left.png');
     background-repeat: no-repeat;
     background-size: cover;
     content: '';
